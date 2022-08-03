@@ -1,0 +1,33 @@
+.foto_item {
+  width: 150px;
+  height: 200px;
+  float: left;
+  text-align: center;
+  margin-right: 10px;
+}
+
+.foto_item img {
+  height: 150px;
+}
+
+.barramenu {
+  background-color: #6843E8;
+  border: none;
+  border-radius: 0px;
+}
+
+#titulo {
+  color: white;
+}
+
+.menuacesso {
+  margin-right: 10px;
+}
+
+#linkmenu {
+  color: white;
+}
+
+#titulo_anuncio {
+  color: black;
+}
